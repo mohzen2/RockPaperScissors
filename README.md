@@ -1,3 +1,3 @@
 # RockPaperScissors
-Simple command line version of Rock Paper Scissors. Again made with the help of youtube tutorial from Code Academy
+Simple command line version of Rock Paper Scissors.
 User vs Computer
